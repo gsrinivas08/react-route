@@ -14,11 +14,3 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 In Nav.js :
 import { Link } from 'react-router-dom';
-
-How to preview the site:
-
-Download the files
-open the project directory
-Run Command : npm start
-
-The project will be started on your localhost
